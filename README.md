@@ -1,3 +1,6 @@
+# Telecom churn analysis
+[Project:Telecom churn analysis using colab](https://github.com/sumeetbabar2809/Telecom-churn-analysis)
+
 # Telecom Churn Analysis Visualization using PowerBI
 ![telecom_churn_analysis](telecom_churn_analysis_9a7b03bd50.png)
 
@@ -19,6 +22,3 @@ The dataset used for this analysis is included in the repository.
 ## Screenshots
 ![Dashboard 1](dashboard1.png)
 ![Dashboard 2](dashboard2.png)
-
-##Telecom churn analysis
-[Project: Telecom churn analysis using colab](Telecomchumipynb.ipynb)
