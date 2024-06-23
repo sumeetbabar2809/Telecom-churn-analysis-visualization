@@ -13,7 +13,7 @@ This repository contains the visualization and analysis of telecom customer chur
 To explore the analysis and visualizations, download the PowerBI file and run it using PowerBI Desktop.
 
 ## Data
-The dataset used for this analysis is not included in this repository but can be sourced from [Provide dataset source/link].
+The dataset used for this analysis is included in the repository.
 
 ## Screenshots
 ![Dashboard 1](/screenshots/dashboard1.png)
