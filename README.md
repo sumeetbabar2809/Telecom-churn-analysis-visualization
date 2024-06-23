@@ -17,7 +17,24 @@ This repository contains the visualization and analysis of telecom customer chur
 To explore the analysis and visualizations, download the PowerBI file and run it using PowerBI Desktop.
 
 ## Data
-The dataset used for this analysis is included in the repository.
+extract data from telecom churn analysis link file 
+
+**
+import pandas as pd
+
+# Mount Google Drive to access the .ipynb file
+from google.colab import drive
+drive.mount('/content/drive')
+
+# Load the Jupyter notebook file using Pandas
+df = pd.read_json('/content/drive/MyDrive/notebookpath.ipynb')
+
+# Convert the data to CSV
+df.to_csv('/content/drive/MyDrive/output.csv', index=False)
+
+# Or convert the data to Excel
+df.to_excel('/content/drive/MyDrive/output.xlsx', index=False)
+**
 
 ## Screenshots
 ![Dashboard 1](dashboard1.png)
