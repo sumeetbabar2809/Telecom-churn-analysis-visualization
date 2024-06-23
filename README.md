@@ -16,5 +16,5 @@ To explore the analysis and visualizations, download the PowerBI file and run it
 The dataset used for this analysis is included in the repository.
 
 ## Screenshots
-![Dashboard 1](/screenshots/dashboard1.png)
-![Dashboard 2](/screenshots/dashboard2.png)
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
